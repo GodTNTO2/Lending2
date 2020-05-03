@@ -77,4 +77,20 @@ body{
 	height: 313px;
 	width: 400px;
 	float: right;
+	margin-top: -127px;
+}
+.img3{
+	height: 313px;
+	width: 400px;
+	float: left;
+	margin-top: -127px;
+}
+.naz{
+	text-align: center;
+	font-size: 30px;
+}
+.h5{
+	color: blue;
+	font-size: 35px;
+	text-align: right;
 }
