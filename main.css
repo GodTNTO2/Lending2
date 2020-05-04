@@ -54,7 +54,7 @@ body{
 }
 .h2{
 	text-align: center;
-	color: green;
+	color: ;
 	font-size: 35px;
 }
 .h3{
@@ -67,17 +67,17 @@ body{
 	height: 60px;
 }
 .h4{
-	color: blue;
+	color: white;
 	font-size: 35px;
 }
 .ob{
-	text-align: right;
-}
+	display: flex;
+	justify-content: space-around;
+}			
 .img2{
 	height: 313px;
 	width: 400px;
 	float: right;
-	margin-top: -127px;
 }
 .img3{
 	height: 313px;
@@ -87,10 +87,45 @@ body{
 }
 .naz{
 	text-align: center;
-	font-size: 30px;
+	font-size: 40px;
 }
 .h5{
+	color: white;
+	font-size: 35px;
+	text-align: right;
+}
+.cen{
+	width: 10px;
+}
+.glavn{
+	background-image: url(https://media.kasperskydaily.com/wp-content/uploads/sites/90/2020/02/07190435/coronavirus-phishing-featured.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+.glavn2{
+	background-image: url(https://media.kasperskydaily.com/wp-content/uploads/sites/90/2020/02/07190435/coronavirus-phishing-featured.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+.h6{
+	color: blue;
+	font-size: 35px;
+}
+.h7{
 	color: blue;
 	font-size: 35px;
 	text-align: right;
+}
+.padval{
+	background-color: #282828;
+    height: 150px;
+}
+#a1{
+	color: red;
+	text-decoration: none;
+	text-align: center;
+	font-size: 40px;
+}
+.p{
+	text-align: center;
 }
